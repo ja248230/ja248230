@@ -1,11 +1,4 @@
-/******************************************************************************
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 import java.time.LocalDateTime;
 import java.util.*;
 import java.io.BufferedReader;
@@ -13,7 +6,7 @@ import java.io.FileReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.FileWriter;
-public class Main
+public class BrowserDriver
 {
 	public static void main(String[] args) {
 		BrowserNavigation newBrowser = new BrowserNavigation();
